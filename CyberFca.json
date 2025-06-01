@@ -1,56 +1,38 @@
-{
-	"Language": "en",
-	"PreKey": "",
-	"AutoUpdate": true,
-	"MainColor": "#9900FF",
-	"MainName": "[ FCA-CYBER ]",
-	"Uptime": false,
-	"Config": "default",
-	"DevMode": false,
-	"Login2Fa": false,
-	"AutoLogin": false,
-	"BroadCast": true,
-	"AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z | https://i.imgur.com/RAg3rvw.png Please remove this !, Recommend If You Using getUserInfoV2",
-	"EncryptFeature": false,
-	"ResetDataLogin": false,
-	"AutoInstallNode": false,
-	"AntiSendAppState": true,
-	"AutoRestartMinutes": 0,
-	"RestartMQTT_Minutes": 0,
-	"Websocket_Extension": {
-		"Status": false,
-		"ResetData": false,
-		"AppState_Path": "appstate.json"
+[
+	{
+		"key": "vpd",
+		"value": "v1%3B978x501x1.2932506799697876",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-06-01T12:59:24.612Z",
+		"lastAccessed": "2025-06-01T12:59:24.612Z"
 	},
-	"HTML": {
-		"HTML": true,
-		"UserName": "Guest",
-		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
+	{
+		"key": "fr",
+		"value": "0a3iiMQEzfoxRkaTG.AWeBp6LKJrFTeSJtdl5j8A-GgA66QEmhK5cds3AQa41HEiJ3jTE.BoPDjh..AAA.0.0.BoPE6O.AWfdrkvhuHvVtUY5XIIcuv7toi4",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-06-01T12:59:24.612Z",
+		"lastAccessed": "2025-06-01T12:59:24.612Z"
 	},
-	"AntiGetInfo": {
-		"Database_Type": "default",
-		"AntiGetThreadInfo": true,
-		"AntiGetUserInfo": true
+	{
+		"key": "fbl_st",
+		"value": "100420778%3BT%3A29146378",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-06-01T12:59:24.612Z",
+		"lastAccessed": "2025-06-01T12:59:24.612Z"
 	},
-	"Stable_Version": {
-		"Accept": false,
-		"Version": ""
-	},
-	"CheckPointBypass": {
-		"956": {
-			"Allow": false,
-			"Difficult": "Easy",
-			"Notification": "Turn on with AutoLogin!"
-		}
-	},
-	"AntiStuckAndMemoryLeak": {
-		"AutoRestart": {
-			"Use": true,
-			"Explain": "When this feature is turned on, the system will continuously check and confirm that if memory usage reaches 90%, it will automatically restart to avoid freezing or stopping."
-		},
-		"LogFile": {
-			"Use": false,
-			"Explain": "Record memory usage logs to fix errors. Default location: Horizon_Database/memory.logs"
-		}
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A2834%3Btimestamp%3A1748782734",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-06-01T12:59:24.612Z",
+		"lastAccessed": "2025-06-01T12:59:24.612Z"
 	}
-}
+]
