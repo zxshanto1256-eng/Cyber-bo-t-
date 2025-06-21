@@ -2,7 +2,7 @@ module.exports.config = {
   name: 'allbox',
   version: '1.0.0',
   credits: '𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️',
-  hasPermssion: 2,
+   hasPermssion: 0, // এখন সবাই ব্যবহার করতে পারবে
   description: '[Ban/Unban/Del/Remove] List[Data] thread The bot has joined in.',
   commandCategory: 'Admin',
   usages: '[page number/all]',
