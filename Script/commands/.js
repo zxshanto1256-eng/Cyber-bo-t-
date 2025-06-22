@@ -11,7 +11,7 @@ module.exports.config = {
  name: "🥺",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "Islamick Chat",
+ credits: "SIZUKA BOT",
  description: "auto reply to salam",
  commandCategory: "noprefix",
  usages: "🥺",
