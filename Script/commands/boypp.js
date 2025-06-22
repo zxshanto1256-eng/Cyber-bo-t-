@@ -2,7 +2,7 @@ module.exports.config = {
   name: "boy pp",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Islamick Chat",
+  credits: "SIZUKA BOT",
   description: "Random Islamick boy",
   commandCategory: "Random-IMG",
   usages: "boy pp",
@@ -69,6 +69,6 @@ const fs = global.nodemodule["fs-extra"];
 "https://i.imgur.com/BFuXq0I.jpg",
 "https://i.imgur.com/K5RfFYF.jpg",
      ];
-     var callback = () => api.sendMessage({body:`𝐈𝐒𝐋𝐀𝐌𝐈𝐂𝐊 𝐁𝐎𝐘 𝐅𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 𝐈𝐌𝐆`,attachment: fs.createReadStream(__dirname + "/cache/1.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/1.jpg"));  
+     var callback = () => api.sendMessage({body:`SIZUKA BOT 𝐅𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 𝐈𝐌𝐆`,attachment: fs.createReadStream(__dirname + "/cache/1.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/1.jpg"));  
       return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname+"/cache/1.jpg")).on("close",() => callback());
    };
