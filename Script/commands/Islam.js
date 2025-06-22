@@ -3,9 +3,9 @@ module.exports.config = {
   name: "islam",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Islamick Chat",
+  credits: "SIZUKA BOT",
   description: "prefix VEDIO",
-  commandCategory: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  commandCategory: "RIFAT ☢️_𖣘 -SIZUKA ⚠️ 𝐁𝐎𝐓_ ☢️",
   usages: "love10 vedio",
   cooldowns: 5,
   dependencies: {
