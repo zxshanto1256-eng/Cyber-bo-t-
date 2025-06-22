@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "delmsg",
 	version: "1.0.0",
 	hasPermssion: 2,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "RIFAT ☢️_𖣘 -SIZUKA ⚠️ 𝐁𝐎𝐓_ ☢️",
 	description: "Delete all messages on ACC Bot",
 	commandCategory: "System",
 	usages: "[thread/all]",
