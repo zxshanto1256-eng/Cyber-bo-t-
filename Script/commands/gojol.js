@@ -2,7 +2,7 @@ module.exports.config = {
  'name': "gojol",
  'version': "1.0.0",
  'hasPermssion': 0x0,
- 'credits': "Shaon Ahmed",
+ 'credits': "Rifat",
  'description': "Made manto",
  'commandCategory': "Hình ảnh",
  'usages': "sad vedio",
