@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "count",
 	version: "1.8.0",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "RIFAT ☢️_𖣘 -SIZUKA ⚠️ 𝐁𝐎𝐓_ ☢️",
 	description: "Check group interactions",
 	commandCategory: "Group",
 	usages: "[all/tag]",
