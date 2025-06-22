@@ -5,7 +5,7 @@ module.exports.config = {
   name: "hd",
   version: "2.2",
   hasPermssion: 0,
-  credits: "Islamick Chat",
+  credits: "Rifat",
   description: "hd",
   commandCategory: "no prefix",
   usages: "Reply to a photo to enhance image ",
