@@ -2,7 +2,7 @@ module.exports.config = {
  name: "bn",
  version: "1.0.1",
  hasPermssion: 0,
- credits: "Islamick Cyber Chat",
+ credits: "SIZUKA BOT",
  usePrefix: false,
  description: "Text translation",
  commandCategory: "media",

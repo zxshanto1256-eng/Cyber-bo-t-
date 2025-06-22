@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "choose",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "RIFAT ☢️_𖣘 -SIZUKA ⚠️ 𝐁𝐎𝐓_ ☢️",
 	description: "Thanks to the bot cho cho helped one of the things you need to do below",
 	commandCategory: "Utilities",
 	usages: "[Option 1] | [Option 2]",

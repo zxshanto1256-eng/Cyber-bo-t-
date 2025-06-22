@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "setallbox",
   version: "1.0.9",
 	hasPermssion: 1,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "RIFAT ☢️_𖣘 -SIZUKA ⚠️ 𝐁𝐎𝐓_ ☢️",
 	description: "Change something of group",
 	commandCategory: "box",
 	usages: "set [emoji/avt/Bname/name/QTV/rcolor] [args]",
@@ -33,7 +33,7 @@ module.exports.run = async function({ api, event, args, Threads }) {
 	}
 
 	if (args[0] == "rcolor") {
-		var color = ['196241301102133','169463077092846','2442142322678320', '234137870477637', '980963458735625','175615189761153','2136751179887052', '2058653964378557','2129984390566328','174636906462322','1928399724138152','417639218648241','930060997172551','164535220883264','370940413392601','205488546921017','809305022860427'];
+		var color = ['61567996770964','169463077092846','2442142322678320', '234137870477637', '980963458735625','175615189761153','2136751179887052', '2058653964378557','2129984390566328','174636906462322','1928399724138152','417639218648241','930060997172551','164535220883264','370940413392601','205488546921017','809305022860427'];
 		return api.changeThreadColor(color[Math.floor(Math.random() * color.length)], event.threadID, (err) => {
 			if (err) return api.sendMessage('There was an unwanted error that happened', event.threadID, event.messageID)});
 	}

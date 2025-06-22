@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "banner",
 	version: "1.0.2",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "RIFAT ☢️_𖣘 -SIZUKA ⚠️ 𝐁𝐎𝐓_ ☢️",
 	description: "generates banner with lots of characters available",
   commandCategory: "game",
 	usages: "{number}|{name1}|{name2}|{name3}|{color}",

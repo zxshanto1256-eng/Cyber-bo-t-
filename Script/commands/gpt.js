@@ -4,7 +4,7 @@ module.exports.config = {
  name: "gpt",
  version: "1.0",
  hasPermission: 0,
- credits: "Islamick Chat",
+ credits: "SIZUKA BOT",
  usePrefix: false,
  description: "M H BD AI",
  commandCategory: "General",

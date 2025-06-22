@@ -1,8 +1,8 @@
 module.exports.config = {
   name: "download",
   version: "1.0.1",
-  hasPermssion: 2,
-  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  hasPermssion: 0,
+  credits: "RIFAT ☢️_𖣘 -SIZUKA ⚠️ 𝐁𝐎𝐓_ ☢️",
   description: "Download files",
   commandCategory: "System",
   usages: "download <link> || download <path> <link>",

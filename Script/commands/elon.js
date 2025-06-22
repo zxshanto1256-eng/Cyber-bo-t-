@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "elon",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "RIFAT ☢️_𖣘 -SIZUKA ⚠️ 𝐁𝐎𝐓_ ☢️",
 	description: "elon [text]",
 	commandCategory: "edit-image",
 	usages: "elon [text]",

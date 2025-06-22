@@ -5,7 +5,7 @@ module.exports.config = {
 
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "RIFAT ☢️_𖣘 -SIZUKA ⚠️ 𝐁𝐎𝐓_ ☢️",
 	description: "Comment on table ( ͡° ͜ʖ ͡°)",
 	commandCategory: "edit-img",
 	usages: "google [text]",
