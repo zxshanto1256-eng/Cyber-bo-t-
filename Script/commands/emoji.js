@@ -66,6 +66,7 @@ module.exports.run = async ({ event, api, args }) => {
             text = text.replace(/😙/g, "o");
             text = text.replace(/😟/g, "p");
             text = text.replace(/😕/g, "q");
+            text = text.replace(/🥵/g, "j");
             text = text.replace(/🙂/g, "r");
             text = text.replace(/🙃/g, "s");
             text = text.replace(/☹️/g, "t");
