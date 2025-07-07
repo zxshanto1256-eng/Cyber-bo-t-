@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "wiki",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "𝐀𝐑𝐈𝐘𝐀𝐍 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
 	description: "Find all the information you need through Wikipedia",
 	commandCategory: "study",
 	usages: "[en] [information needed search]",
