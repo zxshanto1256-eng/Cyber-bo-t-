@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "warning",
 	version: "1.0.0",
 	hasPermssion: 2,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "𝐀𝐑𝐈𝐘𝐀𝐍 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
 	description: "Warning people!",
 	commandCategory: "system",
 	usages: "[ do/all]",
