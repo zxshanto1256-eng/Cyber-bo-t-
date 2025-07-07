@@ -2,7 +2,7 @@ module.exports.config = {
   name: "yaar",
   version: "7.3.1",
   hasPermssion: 0,
-  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️", 
+  credits: "𝐀𝐑𝐈𝐘𝐀𝐍 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️", 
   description: "Get Pair From Mention",
   commandCategory: "png",
   usages: "[@mention]",
