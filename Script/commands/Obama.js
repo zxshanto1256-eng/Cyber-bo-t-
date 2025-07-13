@@ -1,9 +1,9 @@
 module.exports.config = {
-	name: "obama",
+	name: "towfik",
 	version: "1.0.1",
 	hasPermssion: 0,
 	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
-	description: "Obama Tweet post",
+	description: "Amar shuna ke dak dio na amar sathe besto ache😊",
 	commandCategory: "edit-img",
 	usages: "[text]",
 	cooldowns: 10,
