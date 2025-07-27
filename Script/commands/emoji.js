@@ -2,7 +2,7 @@ module.exports.config = {
     name: "emoji",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+    credits: "𝐀𝐑𝐈𝐘𝐀𝐍 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
     description: "Encrypt messages to Emoji and vice versa",
     commandCategory: "Tool",
     usages: "emojitroll en <text>\nor\nemojitroll de <text>",
