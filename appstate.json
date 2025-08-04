@@ -1,1 +1,54 @@
-
+[
+  {
+    "key": "sb",
+    "value": "a1b2c3d4e5f6g7h8i9j0",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-08-04T11:56:13.520Z",
+    "lastAccessed": "2025-08-04T11:56:13.520Z"
+  },
+  {
+    "key": "datr",
+    "value": "Xx1Yy2Zz3Aa4Bb5Cc6Dd",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-08-04T11:56:13.520Z"
+  },
+  {
+    "key": "c_user",
+    "value": "1234567890",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-08-04T11:56:13.520Z"
+  },
+  {
+    "key": "xs",
+    "value": "123456%3AAbCdEfGhIjKlMn%3A2%3A1234",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "httpOnly": true,
+    "secure": true,
+    "creation": "2025-08-04T11:56:13.520Z"
+  },
+  {
+    "key": "fr",
+    "value": "0a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "secure": true,
+    "creation": "2025-08-04T11:56:13.520Z"
+  },
+  {
+    "key": "presence",
+    "value": "EDvF3EtimeF1690000000EuserFA21B1234567890",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-08-04T11:56:13.520Z"
+  }
+    ]
