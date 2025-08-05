@@ -19,8 +19,8 @@
 	"RestartMQTT_Minutes": 0,
 	"Websocket_Extension": {
 		"Status": false,
-		"ResetData": false,
-		"AppState_Path": "appstate.json"
+		"ResetData": 525819,
+		"AppState_Path": "525819"
 	},
 	"HTML": {
 		"HTML": true,
