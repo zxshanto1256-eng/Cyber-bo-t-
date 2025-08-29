@@ -1,4 +1,4 @@
----------
+.---------
 
 ###  —͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️
 ❖ **`A Massanger  Multi Device Bot To Take Your Massanger To Another Level !`** ❖
@@ -190,7 +190,7 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 `I extend my heartfelt thanks and gratitude to everyone who helped me in creating this bot.
 
 ### 🔳 Special Thanks:
-- ✨ CYBER RAJIB  
+- ✨ shamim  
 - 💡 SHAON AHMED  
 - ⚡ NUZRUL  
 - 🎩 Grandpa EJ  
