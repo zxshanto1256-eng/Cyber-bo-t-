@@ -4,7 +4,7 @@
 ❖ **`A Massanger  Multi Device Bot To Take Your Massanger To Another Level !`** ❖
 
 ----------
-## CLICK <a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues">HERE IF YOU ARE NEW TO BOTS</a>
+## CLICK <a href="https://github.com/cyber-Abir/CYBER-BOT-COMMUNITY/issues">HERE IF YOU ARE NEW TO BOTS</a>
 
 
 <img src='https://i.imgur.com/ePDUcck.jpeg'/>
@@ -12,24 +12,24 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸+𝗰𝗵𝗮𝘁+𝗯𝗼𝘁+V2`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝗮𝗯𝗶𝗿+𝗰𝗵𝗮𝘁+𝗯𝗼𝘁+V2`" alt="">
 
 <br>
 
 --------
 
 <p align="center">
-<a href="https://github.com/cyber-ullash/"><img title="Followers" src="https://img.shields.io/github/followers/cyber-ullash?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cyber-ullash/CYBER-BOT-COMMUNITY/?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cyber-ullash/CYBER-BOT-COMMUNITY?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/"><img title="Size" src="https://img.shields.io/github/repo-size/cyber-ullash/CYBER-BOT-COMMUNITY?style=flat-square&color=blue"></a>
-<a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/cyber-abir/"><img title="Followers" src="https://img.shields.io/github/followers/cyber-abir?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyber-abir/CYBER-BOT-COMMUNITY/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cyber-abir/CYBER-BOT-COMMUNITY/?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyber-abir/CYBER-BOT-COMMUNITY/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cyber-abir/CYBER-BOT-COMMUNITY?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyber-abir/CYBER-BOT-COMMUNITY/"><img title="Size" src="https://img.shields.io/github/repo-size/cyber-abir/CYBER-BOT-COMMUNITY?style=flat-square&color=blue"></a>
+<a href="https://github.com/cyber-abir/CYBER-BOT-COMMUNITY/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>☢️_𖣘𝐀𝐛𝐢𝐫 -𝐁𝐎𝐓 ⚠️_ ☢️</drv
 
 ------------
 
@@ -38,7 +38,7 @@
 
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
 ```
-name: Node.js CI
+name: 𝗔𝗕𝗜𝗥
 
 on:
   push:
@@ -76,10 +76,10 @@ jobs:
       run: npm start
 ```
 
-[![FORK CYBER Ullash ッ ](https://img.shields.io/badge/FORK%20-CYBER%20Ullashッ%20V01-white)](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/forks)
+[![FORK CYBER ABIR ッ ](https://img.shields.io/badge/FORK%20-CYBER%20Ullashッ%20V01-white)](https://github.com/cyber-abir/CYBER-BOT-COMMUNITY/forks)
 
  
-🕋✨ `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🌸 **[Original-fork](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY)**
+🕋✨ `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🌸 **[Original-fork](https://github.com/cyber-ABIR/CYBER-BOT-COMMUNITY)**
 
 ------------------
 
@@ -90,12 +90,12 @@ jobs:
 -------
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=*ᴀssᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ+ullash+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʙʀᴇᴀᴛʜᴇʀ!!*" target="_blank">
+  <a href="https://wa.me/+8801878310872?text=*ᴀssᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ+Abir+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʙʀᴇᴀᴛʜᴇʀ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
 
-`🚀 IF YOU WANT MORE ABOUT 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :NEW UPDATED NEW CMDS SO JOIN OUR MASSANGER GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
+`🚀 IF YOU WANT MORE ABOUT 𝗔𝗯𝗶𝘁 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :NEW UPDATED NEW CMDS SO JOIN OUR MASSANGER GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
 
 ---------
 
@@ -103,7 +103,7 @@ jobs:
 
 -----------
 
-`🚀 IF YOU WANT MORE ABOUT 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
+`🚀 IF YOU WANT MORE ABOUT 𝗔𝗯𝗶𝗿 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
 
 ----------
 ## CREATE TALDROVE ACCOUNT
@@ -116,17 +116,17 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`🚀 IF YOU WANT TO DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON HEROKU SO FIRST GET  THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
+`🚀 IF YOU WANT TO DEPLOY 𝗔𝗯𝗶𝗿 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON HEROKU SO FIRST GET  THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/cyber-ABIR/CYBER-BOT-COMMUNITY)
 
 ----------
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
-`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
+`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY 𝗔𝗯𝗶𝗿 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
 
 -------------
 
@@ -136,17 +136,17 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 
 ### <br>   ❖ DEPLOY_KOYEB ❖
 
-`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON KOYEB WITH EASY SETUP 🚀`
+`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY 𝗔𝗯𝗶𝗿 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON KOYEB WITH EASY SETUP 🚀`
 
 ---------
 
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY&branch=main&name=ISLAMICK-CYBER-MIRAI-BOT&builder=dockerfile&env[OWNER_NUMBER]=01859551262%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=CYBER+IS+ONLINE&env[BOT_NAME]=ISLAMICK CYBER CHAT &env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/cyber-Abir/CYBER-BOT-COMMUNITY&branch=main&name=ISLAMICK-CYBER-MIRAI-BOT&builder=dockerfile&env[OWNER_NUMBER]=01859551262%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=CYBER+IS+ONLINE&env[BOT_NAME]=ABIR CYBER CHAT &env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 ------------
 
 ### <br>  ❖ DEPLOY_RAILWAY ❖
 
-`🚀 IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁   ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
+`🚀 IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY 𝗔𝗯𝗶𝗿 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁   ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
 
 --------
 
@@ -174,7 +174,7 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
-`🚀 HOW TO DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
+`🚀 HOW TO DEPLOY 𝗔𝗯𝗶𝗿 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
 
 -------------
 
@@ -190,22 +190,22 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 `I extend my heartfelt thanks and gratitude to everyone who helped me in creating this bot.
 
 ### 🔳 Special Thanks:
-- ✨ CYBER RAJIB  
-- 💡 SHAON AHMED  
-- ⚡ NUZRUL  
-- 🎩 Grandpa EJ  
-- 🛡️ SAHADAT  
-- 🧠 SUJON  
-- 🔧 MAHBUB SHAON  
-- 🌟 NOMAN  
+- ✨ CYBER ABIR  
+- 💡 ABIR XHOWDHURY  
+- ⚡ RAHAD  
+- 🎩 SHUVO   
+- 🛡️ ABIR  
+- 🧠 ABIR  
+- 🔧 ABIR BBZ 
+- 🌟 NUSU  
 
 Each of your contributions has been a great inspiration to me.
 
 ---
 
-### [🌺 ｢𝐈 𝐂 𝐂｣ 🌺](https://m.me/j/AbZEOcdMGQYprT74/)
+### [🌺 ｢𝐈 𝐂 𝐂｣ 🌺](https://www.facebook.com/abirxhowdhury.x.01)
 
-### [🌼💋 উ্ঁল্লা্ঁস্ঁ এ্ঁর্ঁ ফে্ঁমা্ঁস্ঁ সি্ঁটি্ঁ 😘🥀](https://m.me/j/AbYQ-A0Ntlobleu9/)  
+### [🌼💋 আ্ঁবি্ঁর্ঁ এ্ঁর্ঁ ফে্ঁমা্ঁস্ঁ সি্ঁটি্ঁ 😘🥀](https://www.facebook.com/profile.php?id=100083241262207)  
 Heartfelt love and gratitude to all the members of this group as well.  
 ---
 
@@ -213,7 +213,7 @@ May this journey continue with all of you by my side, **In Shaa Allah**.`
 
 ----------
 
-Thanks For Using 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  
+Thanks For Using 𝗔𝗯𝗶𝗿 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  
 
 > Release Date : 15/04/2025 at 08.00 
 Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
