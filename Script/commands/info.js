@@ -1,9 +1,8 @@
-module.exports.config = {
+Ahmededededule.exports.config = {
  name: "info",
  version: "1.2.6",
  hasPermssion: 0,
- credits: "Shaon Ahmed",
- description: "info bot owner",
+ credits:Abir Bb'z riptioncription: "info bot owner",
  commandCategory: "For users",
  hide:true,
  usages: "",
@@ -98,8 +97,7 @@ module.exports.config = {
  name: "info",
  version: "1.2.6",
  hasPermssion: 0,
- credits: "Shaon Ahmed",
- description: "🥰আসসালামু আলাইকুম 🥰",
+ credits:Abirnày'z Bb'zption: "🥰আসসালামু আলাইকুম 🥰",
  commandCategory: "For users",
  hide:true,
  usages: "",
@@ -138,7 +136,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
  const data = [
  "Bạn không thể tìm được lệnh admin tại 'help' của MintBot",
  "Đừng mong chờ gì từ MintBot.",
- "Cái đoạn này á? Của SpermBot.",
+ "Cái đoạn𝗢𝘄𝗻𝗲𝗿a SpermBot.",
  "Nếu muốn không lỗi lệnh thì hãy xài những lệnh có trong help vì những lệnh lỗi đã bị ẩn rồi.",
  "Đây là một con bot được các coder của MiraiProject nhúng tay vào.",
  "Muốn biết sinh nhật của Mint thì hãy xài 'birthday'.",
@@ -186,13 +184,13 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
  `🍀----আসসালামু আলাইকুম----🍀
 
 ┏━━•❅•••❈•••❈•••❅•━━┓\n\n「 ${namebot} 」\n\n┗━━•❅•••❈•••❈•••❅•━━┛ \n\n______________________________\n\n↓↓_𝗥𝗢𝗕𝗢𝗧 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗙𝗢_↓↓\n\n» 𝗣𝗿𝗲𝗳𝗶𝘅 𝘀𝘆𝘀𝘁𝗲𝗺: ${PREFIX}\n\n» 𝗣𝗿𝗲𝗳𝗶𝘅 𝗯𝗼𝘅: ${prefix}\n\n» 𝗧𝗼𝘁𝗮𝗹 𝗠𝗼𝗱𝘂𝗹𝗲𝘀: ${commands.size}\n\n» 𝗣𝗶𝗻𝗴: ${Date.now() - dateNow}ms\n______________________________\n\n ↓↓_𝗥𝗢𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢_↓↓\n\n 
-𝗡𝗔𝗠𝗘 :>ULLASH
+𝗡𝗔𝗠𝗘 :>𝗔𝗕𝗜𝗥 𝗫𝗛𝗢𝗪𝗗𝗛𝗨𝗥𝗬
 
-𝗢𝘄𝗻𝗲𝗿 𝗜𝗱 𝗹𝗶𝗻𝗸:☞https://www.facebook.com/profile.php?id=100086680386976
+𝗢𝘄𝗻𝗲𝗿 𝗜𝗱 𝗹𝗶𝗻𝗸:☞https://www.facebook.com/profile.php?id=100083241262207
 
-𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽☞01631813286
+𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽☞01878310872
 
-______________________________\n\n----↓↓𝙍𝙤𝙗𝙤𝙩 𝙖𝙘𝙩𝙞𝙫𝙚 𝙩𝙞𝙢𝙚↓↓----\n\n ${hours} : ${minutes} : ${seconds} second(s)\n\n______________________________\n» 𝗧𝗢𝗧𝗔𝗟 𝗨𝗦𝗘𝗥𝗦: ${global.data.allUserID.length} \n\n» 𝗧𝗢𝗧𝗔𝗟 𝗚𝗥𝗢𝗨𝗣: ${global.data.allThreadID.length}\n______________________________\n\n thanks for using \n 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 
+______________________________\n\n----↓↓𝙍𝙤𝙗𝙤𝙩 𝙖𝙘𝙩𝙞𝙫𝙚 𝙩𝙞𝙢𝙚↓↓----\n\n ${hours} : ${minutes} : ${seconds} second(s)\n\n______________________________\n» 𝗧𝗢𝗧𝗔𝗟 𝗨𝗦𝗘𝗥𝗦: ${global.data.allUserID.length} \n\n» 𝗧𝗢𝗧𝗔𝗟 𝗚𝗥𝗢𝗨𝗣: ${global.data.allThreadID.length}\n______________________________\n\n thanks for using \n 𝐀𝐁𝐈𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 
 \n--------------------------------------------------\n\n☢️☣️⚠️`, attachment: fs.createReadStream(__dirname + "/cache/kensu.jpg"), }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/kensu.jpg"));
  return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname + "/cache/kensu.jpg")).on("close", () => callback()); 
  }
