@@ -1,0 +1,55 @@
+bby-bot/
+│
+├── bot.py                 # Main launcher & message handler
+├── config/
+│   ├── admins.json        # Admin UID list
+│   ├── settings.json      # Language, behavior, mode, etc.
+│   ├── tokens.env         # Facebook Token, API keys
+│
+├── core/
+│   ├── router.py          # Command dispatcher
+│   ├── language.py        # Bangla/Banglish parser
+│   └── utils.py           # Utility/helper functions
+│
+├── modules/
+│   ├── quiz/
+│   │   └── quiz.py
+│   ├── album/
+│   │   └── album.py
+│   ├── pair/
+│   │   └── pair.py
+│   ├── rank/
+│   │   └── rank.py
+│   ├── image/
+│   │   └── generate.py
+│   ├── group/
+│   │   └── group_into.py
+│   ├── user/
+│   │   └── into.py
+│   ├── ppwrite/
+│   │   └── writer.py
+│   ├── sing/
+│   │   └── lyrics.py
+│   ├── say/
+│   │   └── voice.py
+│   ├── admin/
+│   │   └── info.py
+│   ├── bot/
+│   │   └── info.py
+│   ├── welcome/
+│   │   └── wlc.py
+│   ├── games/
+│   │   └── game1.py ... game10.py
+│   ├── vip/
+│   │   └── system.py
+│   ├── smart_reply/
+│   │   └── random_reply.py
+│   ├── auto_react/
+│   │   └── reaction.py
+│
+├── data/
+│   ├── users.json         # VIP, ranking, join info
+│   ├── messages.log       # Message logs
+│
+├── README.md              # Setup instructions
+└── requirements.txt       # Python dependencies
