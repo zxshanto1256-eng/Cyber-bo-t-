@@ -30,9 +30,9 @@ module.exports.run = async function({ api, event }) {
 ‎┃ 🏫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝗶𝗻𝘁𝗲𝗿 2𝗻𝗱 𝗬𝗲𝗮𝗿
 ‎┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : 𝗦𝗜𝗥𝗔𝗝𝗚𝗢𝗡𝗝, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡
 ‎┣━━━━━━━━━━━━━━━━━━━━━┫
-‎┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  :https://www.tiktok.com/@nahid_template_eddit?_t=ZS-8zvFhPyYnIO&_r=1
+‎┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  :@nahid_template_eddit
 ‎┃ 📢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 : 01790454254
-‎┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/profile.php?id=61581253550476 https://www.facebook.com/profile.php?id=61553630331866 https://www.facebook.com/profile.php?id=61579419327684 
+‎┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/profile.php?id=61579419327684 
 ‎┣━━━━━━━━━━━━━━━━━━━━━┫
 ‎┃ 🕒 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐓𝐢𝐦𝐞:  ${time}
 ‎┗━━━━━━━━━━━━━━━━━━━━━┛
