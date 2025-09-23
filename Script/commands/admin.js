@@ -1,4 +1,4 @@
-const axios = require("axios");
+uconst axios = require("axios");
 const request = require("request");
 const fs = require("fs-extra");
 const moment = require("moment-timezone");
@@ -22,7 +22,7 @@ module.exports.run = async function({ api, event }) {
 ┏━━━━━━━━━━━━━━━━━━━━━┓
 ┃      🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟      
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 👤 𝐍𝐚𝐦𝐞      : 𝐮 𝐥 𝐥 𝐚 𝐬 𝐡 ッ
+┃ 👤 𝐍𝐚𝐦𝐞      : L x R a k i b ッ
 ┃ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫    : 𝐌𝐚𝐥𝐞
 ┃ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧  : 𝐈𝐧 𝐂𝐨𝐦𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐝
 ┃ 🎂 𝐀𝐠𝐞       : 21
