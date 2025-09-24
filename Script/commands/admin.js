@@ -19,20 +19,21 @@ module.exports.run = async function({ api, event }) {
 
     var callback = () => api.sendMessage({
         body: `
+
 ┏━━━━━━━━━━━━━━━━━━━━━┓
 ┃      🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟      
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 👤 NAME      : S H A J I T H ッ
-┃ 🚹 GENDER    : MALE
-┃ ❤️ RELATION  : SINGLE
-┃ 🎂 AGE       : 17
-┃ 🕌 RELIGION  : ISLAM
-┃ 🏫 EDUCATION : NEW 10
-┃ 🏡 ADDRESS   : DHAKA, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡
+┃ 👤 NAME        : S H A J I T H ッ
+┃ 🚹 GENDER      : 𝐌𝐚𝐥𝐞
+┃ ❤️ NRELATION   : SINGLE
+┃ 🎂 AGE         : 17
+┃ 🕌 RELIGION    : ISLAM
+┃ 🏫 EDUCATION   : NEW 10
+┃ 🏡 ADDRESS     : DHAKA, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🎭 DISCORD  : SHAJITH_KHONDOKAR
-┃ 📢 INSTAGRAM: SHAJITH_KHONDOKAR
-┃ 🌐 FACEBOOK : https://www.facebook.com/share/1Cx7SCzqEW/
+┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : PRIME_SHAJITH
+┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : SHAJITH_KHONDOKAR
+┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/share/1Cx7SCzqEW/
 ┣━━━━━━━━━━━━━━━━━━━━━┫
 ┃ 🕒 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐓𝐢𝐦𝐞:  ${time}
 ┗━━━━━━━━━━━━━━━━━━━━━┛
